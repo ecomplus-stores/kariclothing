@@ -1,27 +1,29 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "FRETE GRÁTIS A PARTIR DE R$400 REAIS EM COMPRAS",
+    "link": "",
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/croppeds?CROPPEDS",
+      "/vestidos?VESTIDOS",
+      "/tenis?TÊNIS",
+      "/moletom?MOLETOM",
+      "/tricot?TRICOT",
+      "/ver-tudo?VER TUDO"
+    ],
+    "random": 0,
+    "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
