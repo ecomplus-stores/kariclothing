@@ -7,6 +7,10 @@
       "img": "/img/uploads/43483-my-project.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/2-1-2-.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
