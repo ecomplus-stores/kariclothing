@@ -3,12 +3,15 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/43483-my-project.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/2-1-2-.png"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/43483-my-project.jpg"
+        },
+        {
+          "img": "/img/uploads/2-1-2-.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
