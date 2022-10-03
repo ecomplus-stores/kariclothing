@@ -3,13 +3,19 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/43483-my-project.jpg"
         },
         {
-          "img": "/img/uploads/2-1-2-.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2-1-3-.png"
         }
       ]
     },
