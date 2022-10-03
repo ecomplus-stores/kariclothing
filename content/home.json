@@ -20,6 +20,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -54,10 +58,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "623cbdc42e405e04fff93eee:categories:MOLETOM:/moletom"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
