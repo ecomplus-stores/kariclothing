@@ -28,7 +28,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null
+      "collection_id": "622a626a8bd0103c54ecc39c:categories:CROPPEDS:/croppeds"
     },
     {
       "type": "collection-shelf",
@@ -43,13 +43,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622a62bc8bd0103c54ecc4c7:categories:CASACOS:/casacos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "622a60488bd0103c54ecbd49:categories:CALÇAS:/calcas"
     },
     {
@@ -57,7 +50,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "623cbdc42e405e04fff93eee:categories:MOLETOM:/moletom"
+      "collection_id": "622a62798bd0103c54ecc3dc:categories:BODYS:/bodys"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "622a93228bd0103c54ed30bc:categories:CONJUNTOS:/conjuntos"
     }
   ]
 }
