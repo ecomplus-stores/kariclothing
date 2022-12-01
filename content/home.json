@@ -28,7 +28,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622a626a8bd0103c54ecc39c:categories:CROPPEDS:/croppeds"
+      "collection_id": "622a626a8bd0103c54ecc39c:categories:CROPPEDS:/croppeds",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -36,28 +37,31 @@
       "limit": 12,
       "page": 1,
       "collection_id": "622a62728bd0103c54ecc3c1:categories:VESTIDOS:/vestidos",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622a60488bd0103c54ecbd49:categories:CALÇAS:/calcas"
+      "collection_id": "622a60488bd0103c54ecbd49:categories:CALÇAS:/calcas",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622a62798bd0103c54ecc3dc:categories:BODYS:/bodys"
+      "collection_id": "622a62798bd0103c54ecc3dc:categories:BODYS:/bodys",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622a93228bd0103c54ed30bc:categories:CONJUNTOS:/conjuntos"
+      "collection_id": "622a933a8bd0103c54ed30dc:categories:BIQUÍNIS:/biquinis",
+      "sort": "news"
     }
   ]
 }
