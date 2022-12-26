@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dca34e115f3dc7c92d901f7a26ab2ce8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1c33fe450f007c2332cb41469083f3f6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d4c1225ab97bfcff22b71602f6966fe0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9e2901c39a61f7194071e4d56da56649.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a13eb49c91c9103f799da80ad8b4c4b8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Kari Clothing",
+  "short_name": "Kari Clothing",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "#usekariclothing",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
