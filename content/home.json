@@ -25,7 +25,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "622a626a8bd0103c54ecc39c:categories:CROPPEDS:/croppeds",
@@ -33,7 +33,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "622a62728bd0103c54ecc3c1:categories:VESTIDOS:/vestidos",
@@ -49,7 +49,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "622a62798bd0103c54ecc3dc:categories:BODYS:/bodys",
@@ -57,7 +57,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "622a933a8bd0103c54ed30dc:categories:BIQUÍNIS:/biquinis",
@@ -65,7 +65,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "62c482e4eb8591121676f2ed:categories:VER TUDO:/ver-tudo",
